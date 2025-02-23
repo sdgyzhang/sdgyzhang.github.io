@@ -11,4 +11,8 @@ Guangyao Zhang (张光耀) obtained his PhD degree from UNU-MERIT (supervisors: 
 
 His research focuses on the science of science and the sociology of science, with a particular emphasis on peer review.
 
+ORCID: 0000-0002-0505-1160
+
+Email: sdgyzhang@163.com
+
 Affiliation: [School of Public Administration and Policy ](https://spap.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn).
