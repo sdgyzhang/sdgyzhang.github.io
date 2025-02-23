@@ -11,7 +11,7 @@ I am Guangyao Zhang (张光耀). I obtained my Ph.D degree from UNU-MERIT (super
 
 My current work focuses on science of science and sociology of science, with a particular emphasis on peer review.
 
-You can find my CV here: [Guangyao's Curriculum Vitae](https://github.com/sdgyzhang/sdgyzhang.github.io/blob/master/files/Resume_Guangyao_Zhang.pdf).
+You can find my CV here: [Guangyao's Curriculum Vitae](../assets/Resume_Guangyao_Zhang.pdf).
 
 Thank you for your interest in my projects. To reach out, please send me an email at sdgyzhang@163.com.
 
