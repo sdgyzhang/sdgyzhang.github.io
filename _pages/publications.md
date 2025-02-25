@@ -1,4 +1,4 @@
----
+**---
 layout: archive
 title: "Recent Publications"
 permalink: /publications/
@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ---
+## 2025
+- **人文社科研究报告类成果：研究进展与评价综述** (forthcoming) [HTML]() <br>
+姜春林*, 孙瑞敏, **张光耀** <br>
+<i>`图书情报工作`</i> 2025<br> 
+
 ## 2024
 - **Cultural distance, gender and praise in peer review**  [HTML](https://www.tandfonline.com/doi/full/10.1080/08989621.2024.2409310) <br>
 **Guangyao Zhang**, Lili Wang, and Xianwen Wang* <br>
@@ -13,6 +18,12 @@ author_profile: true
 - **What are the digital skills sought by scientific employers in potential candidates?** [HTML]( https://www.tandfonline.com/doi/full/10.1080/1360080X.2024.2374392) <br>
 **Guangyao Zhang**, Lili Wang*, Furong Shang, and Xianwen Wang* <br>
 <i>`Journal of Higher Education Policy and Management`</i> 2024
+- ** Are reviewer scores consistent with citations?**  [HTML]( https://doi.org/10.1007/s11192-024-05103-2) <br>
+Weixi Xie, Pengfei Jia, **Guangyao Zhang**, Xianwen Wang*<br>
+<i>` Scientometrics`</i> 2024<br> 
+- ** Does Granger causality exist between article usage and publication counts? A topic-level time-series evidence from IEEE Xplore **  [HTML]( https://doi.org/10.1007/s11192-024-05038-8) <br>
+Wencan Tian, Yongzhen Wang, Zhigang Hu, Ruonan Cai, **Guangyao Zhang**, Wang Xianwen* <br>
+<i>` Scientometrics`</i> 2024<br> 
 
 ## 2023
 - **Understanding the peer review endeavor in scientific publishing**  [HTML](https://www.sciencedirect.com/science/article/pii/S1751157722000165) <br>
@@ -21,10 +32,12 @@ author_profile: true
 - **Is peer review duration shorter for attractive manuscripts?**  [HTML]( https://journals.sagepub.com/doi/abs/10.1177/01655515231174382) <br>
 **Guangyao Zhang**, Furong Shang, Lili Wang, Weixi Xie, Pengfei Jia, Chunlin Jiang, Xianwen Wang* <br>
 <i>` Journal of Information Science`</i> 2023<br> 
-- **同行评议速度与论文影响力的关系研究 ——以二次文献选文速度为视角**  [HTML]( http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.04.140) <br>
+- **同行评议速度与论文影响力的关系研究 ——以二次文献选文速度为视角** [HTML]( http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.04.140) <br>
 **张光耀**, 谢维熙, 姜春林, 王贤文 <br>
 <i>`信息资源管理学报`</i> 2023<br> 
-
+- ** Do reviewers get their deserved acknowledgments from the authors of manuscripts?**  [HTML]( https://doi.org/10.1007/s11192-023-04790-7) <br>
+Pengfei Jia, Weixi Xie, **Guangyao Zhang**, Xianwen Wang* <br>
+<i>`Scientometrics`</i> 2023<br> 
 
 ## 2022
 - **“This article is interesting, however”: Exploring the language use in peer review comment of articles published in the BMJ**  [HTML]( https://www.emerald.com/insight/content/doi/10.1108/ajim-06-2021-0172/full/html) <br>
@@ -42,8 +55,9 @@ author_profile: true
 - ** A bibliometric analysis of the research on preeclampsia in the first two decades of the twenty-first century **  [HTML]( https://doi.org/10.1097/HJH.0000000000003114) <br>
 Dongying Zheng, Khan Muhanmmad, **Guangyao Zhang**, Kedong Song, Lixia Wang, Chong Qiao, Fuli Kang* <br>
 <i>`Journal of Hypertension`</i> 2022<br> 
-
-
+- ** Scientists are working overtime: When do scientists download scientific papers?**  [HTML](https://doi.org/10.1007/s11192-022-04524-1) <br>
+Yu Geng, Renmeng Cao, Xiaopu Han, Wencan Tian, **Guangyao Zhang**, Wang Xianwen*<br>
+<i>`Scientometrics`</i> 2022<br> 
 - **同行评议有效吗——基于有效市场假说的探究**  [HTML](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2023.02.105) <br>
 **张光耀**, 邵文君, 谢维熙, 姜春林, 王贤文 <br>
 <i>`图书情报知识`</i> 2022<br> 
@@ -59,6 +73,9 @@ Dongying Zheng, Khan Muhanmmad, **Guangyao Zhang**, Kedong Song, Lixia Wang, Cho
 <i>`图书情报知识`</i> 2020<br> 
 
 ## 2019
+- ** Understanding the peer review endeavor**  [HTML]( Proceedings of the Association for Information Science and Technology) <br>
+Shenmeng Xu, **Guangyao Zhang**, Yao Sun, Xianwen Wang*<br>
+<i>` https://doi.org/10.1002/pra2.26`</i> 2019<br> 
 - **复印报刊资料科技哲学卷文献计量分析**  [HTML]( https://www.researchgate.net/publication/357334052) <br>
 姜春林（导师）, 郭琪琴, **张光耀** <br> 
 <i>`自然辩证法研究`</i> 2019<br> 
@@ -79,3 +96,4 @@ Dongying Zheng, Khan Muhanmmad, **Guangyao Zhang**, Kedong Song, Lixia Wang, Cho
 
 ## 2017
 
+**
