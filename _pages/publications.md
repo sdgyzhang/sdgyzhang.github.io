@@ -17,10 +17,10 @@ author_profile: true
 - **What are the digital skills sought by scientific employers in potential candidates?** [HTML]( https://www.tandfonline.com/doi/full/10.1080/1360080X.2024.2374392) <br>
 **Guangyao Zhang**, Lili Wang*, Furong Shang, and Xianwen Wang* <br>
 <i>`Journal of Higher Education Policy and Management`</i> (SSCI) <br>
-- ** Are reviewer scores consistent with citations?**  [HTML]( https://doi.org/10.1007/s11192-024-05103-2) <br>
+- **Are reviewer scores consistent with citations?**  [HTML]( https://doi.org/10.1007/s11192-024-05103-2) <br>
 Weixi Xie, Pengfei Jia, **Guangyao Zhang**, Xianwen Wang*<br>
 <i>` Scientometrics`</i> (SSCI) <br>
-- ** Does Granger causality exist between article usage and publication counts? A topic-level time-series evidence from IEEE Xplore **  [HTML]( https://doi.org/10.1007/s11192-024-05038-8) <br>
+- **Does Granger causality exist between article usage and publication counts? A topic-level time-series evidence from IEEE Xplore**  [HTML]( https://doi.org/10.1007/s11192-024-05038-8) <br>
 Wencan Tian, Yongzhen Wang, Zhigang Hu, Ruonan Cai, **Guangyao Zhang**, Wang Xianwen* <br>
 <i>` Scientometrics`</i> (SSCI) <br>
 - **我国学术期刊存在编委效应吗——基于管理学期刊的实证研究**  [HTML]( https://www.cjstp.cn/CN/10.11946/cjstp.202403110213) <br>
@@ -37,7 +37,7 @@ Wencan Tian, Yongzhen Wang, Zhigang Hu, Ruonan Cai, **Guangyao Zhang**, Wang Xia
 - **同行评议速度与论文影响力的关系研究 ——以二次文献选文速度为视角** [HTML]( http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.04.140) <br>
 **张光耀**, 谢维熙, 姜春林, 王贤文 <br>
 <i>`信息资源管理学报`</i> (CSSCI) <br>
-- ** Do reviewers get their deserved acknowledgments from the authors of manuscripts?**  [HTML]( https://doi.org/10.1007/s11192-023-04790-7) <br>
+- **Do reviewers get their deserved acknowledgments from the authors of manuscripts?**  [HTML]( https://doi.org/10.1007/s11192-023-04790-7) <br>
 Pengfei Jia, Weixi Xie, **Guangyao Zhang**, Xianwen Wang* <br>
 <i>`Scientometrics`</i> (SSCI) <br>
 - **知识流动视角下企业战略性知识披露效应研究——以华大基因为例**  [HTML](https://www.researchgate.net/publication/366325827) <br>
@@ -60,10 +60,10 @@ Pengfei Jia, Weixi Xie, **Guangyao Zhang**, Xianwen Wang* <br>
 - **非共识研究的影响力更高还是更低呢？——基于中文开放同行评议审稿意见的分析**  [HTML]( https://www.researchgate.net/publication/359576551) <br>
 **张光耀**, 谢维熙, 夏鑫璐, 耿屿, 姜春林, 王贤文*<br>
 <i>`情报理论与实践`</i> (CSSCI) <br>
-- ** A bibliometric analysis of the research on preeclampsia in the first two decades of the twenty-first century **  [HTML]( https://doi.org/10.1097/HJH.0000000000003114) <br>
+- **A bibliometric analysis of the research on preeclampsia in the first two decades of the twenty-first century**  [HTML]( https://doi.org/10.1097/HJH.0000000000003114) <br>
 Dongying Zheng, Khan Muhanmmad, **Guangyao Zhang**, Kedong Song, Lixia Wang, Chong Qiao, Fuli Kang* <br>
 <i>`Journal of Hypertension`</i> (SCI) <br>
-- ** Scientists are working overtime: When do scientists download scientific papers?**  [HTML](https://doi.org/10.1007/s11192-022-04524-1) <br>
+- **Scientists are working overtime: When do scientists download scientific papers?**  [HTML](https://doi.org/10.1007/s11192-022-04524-1) <br>
 Yu Geng, Renmeng Cao, Xiaopu Han, Wencan Tian, **Guangyao Zhang**, Wang Xianwen*<br>
 <i>`Scientometrics`</i> (SSCI) <br>
 - **开放获取背景和疫情形势下预印本发表模式的扩散研究——以bioRxiv为例**  [HTML]( http://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.03.050) <br>
@@ -102,7 +102,7 @@ Yu Geng, Renmeng Cao, Xiaopu Han, Wencan Tian, **Guangyao Zhang**, Wang Xianwen*
 <i>`情报杂志`</i> (CSSCI) <br>
 
 ## 2019
-- ** Understanding the peer review endeavor**  [HTML](https://doi.org/10.1002/pra2.26) <br>
+- **Understanding the peer review endeavor**  [HTML](https://doi.org/10.1002/pra2.26) <br>
 Shenmeng Xu, **Guangyao Zhang**, Yao Sun, Xianwen Wang*<br>
 <i>`Proceedings of the Association for Information Science and Technology`</i> <br>
 - **复印报刊资料科技哲学卷文献计量分析**  [HTML]( https://www.researchgate.net/publication/357334052) <br>
