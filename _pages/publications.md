@@ -39,6 +39,9 @@ author_profile: true
 - **非共识研究的影响力更高还是更低呢？——基于中文开放同行评议审稿意见的分析**  [HTML]( https://www.researchgate.net/publication/359576551) <br>
 **张光耀**, 谢维熙, 夏鑫璐, 耿屿, 姜春林, 王贤文*<br>
 <i>`情报理论与实践`</i> 2022<br> 
+- ** A bibliometric analysis of the research on preeclampsia in the first two decades of the twenty-first century **  [HTML]( https://doi.org/10.1097/HJH.0000000000003114) <br>
+Dongying Zheng, Khan Muhanmmad, **Guangyao Zhang**, Kedong Song, Lixia Wang, Chong Qiao, Fuli Kang* <br>
+<i>`Journal of Hypertension`</i> 2022<br> 
 
 
 - **同行评议有效吗——基于有效市场假说的探究**  [HTML](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2023.02.105) <br>
