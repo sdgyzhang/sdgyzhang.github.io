@@ -36,6 +36,9 @@ author_profile: true
 - **负责任同行评议：何谓、何以与何为**  [HTML](https://www.cjstp.cn/CN/10.11946/cjstp.202204280331) <br>
  王贤文（导师）,**张光耀** <br>
 <i>`中国科技期刊研究`</i> 2022<br> 
+- **非共识研究的影响力更高还是更低呢？——基于中文开放同行评议审稿意见的分析**  [HTML]( https://www.researchgate.net/publication/359576551) <br>
+**张光耀**, 谢维熙, 夏鑫璐, 耿屿, 姜春林, 王贤文*<br>
+<i>`情报理论与实践`</i> 2022<br> 
 
 
 - **同行评议有效吗——基于有效市场假说的探究**  [HTML](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2023.02.105) <br>
@@ -48,8 +51,14 @@ author_profile: true
 - **The open access usage advantage: A temporal and spatial analysis**  [HTML](https://link.springer.com/article/10.1007/s11192-020-03836-4) <br>
 **Guangyao Zhang**, Yuqi Wang, Weixi Xie, Han Du, Chunlin Jiang, Xianwen Wang* <br>
 <i>` Scientometrics`</i> 2020<br>
+- **对抗疫情的科研成果发表与传播**  [HTML](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2023.02.105) <br>
+王贤文（导师）*, **张光耀**, 刘兰剑 <br>
+<i>`图书情报知识`</i> 2020<br> 
 
 ## 2019
+- **复印报刊资料科技哲学卷文献计量分析**  [HTML]( https://www.researchgate.net/publication/357334052) <br>
+姜春林（导师）, 郭琪琴, **张光耀** <br> 
+<i>`自然辩证法研究`</i> 2019<br> 
 - **即时开放获取论文在时间和地理空间上的使用优势分析**  [HTML]( https://www.cjstp.cn/CN/10.11946/cjstp.201905110360) <br>
 **张光耀**, 姜春林, 王贤文* <br>
 <i>`中国科技期刊研究`</i> 2019<br> 
