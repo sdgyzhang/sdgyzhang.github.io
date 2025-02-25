@@ -1,4 +1,3 @@
-**---
 layout: archive
 title: "Recent Publications"
 permalink: /publications/
