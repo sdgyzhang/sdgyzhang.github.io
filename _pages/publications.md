@@ -1,9 +1,9 @@
+---
 layout: archive
 title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 ---
 ## 2025
 - **人文社科研究报告类成果：研究进展与评价综述** (forthcoming) [HTML]() <br>
