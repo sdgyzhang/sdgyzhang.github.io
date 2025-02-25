@@ -125,4 +125,3 @@ Shenmeng Xu, **Guangyao Zhang**, Yao Sun, Xianwen Wang*<br>
 姜春林*, **张光耀**, 贾龙川<br>
 <i>`情报杂志`</i> (CSSCI) 2019<br> 
 
-**
