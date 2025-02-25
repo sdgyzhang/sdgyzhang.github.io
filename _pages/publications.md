@@ -8,7 +8,7 @@ author_profile: true
 ## 2025
 - **人文社科研究报告类成果：研究进展与评价综述** (forthcoming) [HTML]() <br>
 姜春林*, 孙瑞敏, **张光耀** <br>
-<i>`图书情报工作`</i> (CSSCI) 2025<br> 
+<i>`图书情报工作`</i> (CSSCI) <br> 
 
 ## 2024
 - **Cultural distance, gender and praise in peer review**  [HTML](https://www.tandfonline.com/doi/full/10.1080/08989621.2024.2409310) <br>
