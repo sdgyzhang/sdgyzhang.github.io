@@ -28,9 +28,6 @@ Wencan Tian, Yongzhen Wang, Zhigang Hu, Ruonan Cai, **Guangyao Zhang**, Wang Xia
 <i>`中国科技期刊研究`</i> (CSSCI) <br>
 
 ## 2023
-- **Understanding the peer review endeavor in scientific publishing**  [HTML](https://www.sciencedirect.com/science/article/pii/S1751157722000165) <br>
-**Guangyao Zhang**, Shenmeng Xu, Yao Sun, Chunlin Jiang, Xianwen Wang* <br>
-<i>` Journal of Informetrics`</i> (SSCI) <br>
 - **Is peer review duration shorter for attractive manuscripts?**  [HTML]( https://journals.sagepub.com/doi/abs/10.1177/01655515231174382) <br>
 **Guangyao Zhang**, Furong Shang, Lili Wang, Weixi Xie, Pengfei Jia, Chunlin Jiang, Xianwen Wang* <br>
 <i>` Journal of Information Science`</i> (SSCI) <br>
@@ -45,6 +42,9 @@ Pengfei Jia, Weixi Xie, **Guangyao Zhang**, Xianwen Wang* <br>
 <i>`情报杂志`</i> (CSSCI) <br>
 
 ## 2022
+- **Understanding the peer review endeavor in scientific publishing**  [HTML](https://www.sciencedirect.com/science/article/pii/S1751157722000165) <br>
+**Guangyao Zhang**, Shenmeng Xu, Yao Sun, Chunlin Jiang, Xianwen Wang* <br>
+<i>` Journal of Informetrics`</i> (SSCI) <br>
 - **“This article is interesting, however”: Exploring the language use in peer review comment of articles published in the BMJ**  [HTML]( https://www.emerald.com/insight/content/doi/10.1108/ajim-06-2021-0172/full/html) <br>
 **Guangyao Zhang**, Licheng Wang, Weixi Xie, Furong Shang, Xinlu Xia, Chunlin Jiang, Xianwen Wang* <br>
 <i>` Aslib Journal of Information Management`</i> (SSCI) <br>
