@@ -15,8 +15,8 @@ You can find my CV here: [Guangyao's Curriculum Vitae](../assets/Resume_Guangyao
 
 Thank you for your interest in my projects. To reach out, please send me an email at sdgyzhang@163.com.
 
-ORCID: 0000-0002-0505-1160
-
 Email: sdgyzhang@163.com
 
-Affiliation: [School of Public Administration and Policy ](https://spap.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn).
+how to pronounce [张](https://youtu.be/OZ3HgI2xIwo?t=7)
+
+Affiliation: School of Public Administration and Policy, Dalian University of Technology.
