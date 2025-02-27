@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Guangyao Zhang"
+title                    : "Zhang, Guangyao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ repository               : "https://sdgyzhang.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Guangyao Zhang (张光耀)"
-  pronouns         : # example: "she/her"  
+  name             :  "张光耀"
+  pronouns         : "(张 /tʂɑŋ55/)(光 /kwɑŋ55/)(耀 /jɑʊ51/)"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Dalian, China"
   employer         : # "Dalian University of Technology"
