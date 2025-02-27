@@ -10,7 +10,7 @@ redirect_from:
 Hello!
 I am Zhang, Guangyao (张光耀). I obtained my Ph.D degree from UNU-MERIT (supervisors: Prof. [Bart Verspagen](https://unu.edu/merit/about/expert/prof-dr-bart-verspagen), Prof. [Lili Wang](https://unu.edu/merit/about/expert/dr-lili-wang), and Prof. [Xianwen Wang](https://faculty.dlut.edu.cn/xwang/zh_CN/index.htm)).
 
-My current work focuses on science of science and sociology of science, with a particular emphasis on peer review.
+My current work focuses on `science of science` and `sociology of science`, with a particular emphasis on `peer review`.
 
 You can find my CV here: [Guangyao's Curriculum Vitae](../assets/Resume_Guangyao_Zhang.pdf).
 
