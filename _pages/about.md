@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guangyao Zhang"
+title: "Zhang, Guangyao"
 author_profile: true
 redirect_from: 
   - /about/
