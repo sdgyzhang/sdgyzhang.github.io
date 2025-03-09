@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---
 ## 2025
-- **人文社科研究报告类成果：研究进展与评价综述** (forthcoming) [HTML]() <br>
+- **人文社科研究报告类成果：研究进展与评价综述**  [HTML](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2025.05.013) <br>
 姜春林*, 孙瑞敏, **张光耀** <br>
 <i>`图书情报工作`</i> (CSSCI) <br> 
 
@@ -15,7 +15,7 @@ author_profile: true
 **Guangyao Zhang**, Lili Wang, and Xianwen Wang* <br>
 <i>`Accountability in Research: Ethics, Integrity and Policy`</i> (SSCI)<br> 
 - **What are the digital skills sought by scientific employers in potential candidates?** [HTML]( https://www.tandfonline.com/doi/full/10.1080/1360080X.2024.2374392) <br>
-**Guangyao Zhang**, Lili Wang*, Furong Shang, and Xianwen Wang* <br>
+**Guangyao Zhang**, Lili Wang, Furong Shang, and Xianwen Wang* <br>
 <i>`Journal of Higher Education Policy and Management`</i> (SSCI) <br>
 - **Are reviewer scores consistent with citations?**  [HTML]( https://doi.org/10.1007/s11192-024-05103-2) <br>
 Weixi Xie, Pengfei Jia, **Guangyao Zhang**, Xianwen Wang*<br>
