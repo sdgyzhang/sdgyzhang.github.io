@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Science of Science and Management of Science and Technology, Dalian University of Technology, 2019 - 2025 (expected)
+* Ph.D in Science of Science and Management of Science and Technology, Dalian University of Technology, 2019 - 2025
 * Ph.D in Economics of innovation, Maastricht University, 2022 – 2024
 * M.S. in Regional economics, Dalian University of Technology, 2017 – 2022
 * B.S. in Information Management and Information System, Shandong Normal University, 2013 – 2017
