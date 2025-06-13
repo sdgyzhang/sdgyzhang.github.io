@@ -34,6 +34,9 @@ Wencan Tian, Yongzhen Wang, Zhigang Hu, Ruonan Cai, **Guangyao Zhang**, Wang Xia
 - **同行评议速度与论文影响力的关系研究 ——以二次文献选文速度为视角** [HTML]( http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.04.140) <br>
 **张光耀**, 谢维熙, 姜春林, 王贤文 <br>
 <i>`信息资源管理学报`</i> (CSSCI) <br>
+- **同行评议有效吗——基于有效市场假说的探究**  [HTML](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2023.02.105) <br>
+**张光耀**, 邵文君, 谢维熙, 姜春林, 王贤文 <br>
+<i>`图书情报知识`</i> (CSSCI) <br>
 - **Do reviewers get their deserved acknowledgments from the authors of manuscripts?**  [PDF](../assets/paper_en/Jia_et_al_2023_Do_reviewers_get_their_deserved_acknowledgments_fr.pdf) [HTML]( https://doi.org/10.1007/s11192-023-04790-7) <br>
 Pengfei Jia, Weixi Xie, **Guangyao Zhang**, Xianwen Wang* <br>
 <i>`Scientometrics`</i> (SSCI) <br>
@@ -54,9 +57,6 @@ Pengfei Jia, Weixi Xie, **Guangyao Zhang**, Xianwen Wang* <br>
 - **负责任同行评议：何谓、何以与何为**  [HTML](https://www.cjstp.cn/CN/10.11946/cjstp.202204280331) <br>
  王贤文（导师）,**张光耀** <br>
 <i>`中国科技期刊研究`</i> (CSSCI) <br>
-- **同行评议有效吗——基于有效市场假说的探究**  [HTML](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2023.02.105) <br>
-**张光耀**, 邵文君, 谢维熙, 姜春林, 王贤文 <br>
-<i>`图书情报知识`</i> (CSSCI) <br>
 - **非共识研究的影响力更高还是更低呢？——基于中文开放同行评议审稿意见的分析**  [HTML]( https://www.researchgate.net/publication/359576551) <br>
 **张光耀**, 谢维熙, 夏鑫璐, 耿屿, 姜春林, 王贤文*<br>
 <i>`情报理论与实践`</i> (CSSCI) <br>
