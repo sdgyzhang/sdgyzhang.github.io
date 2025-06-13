@@ -11,7 +11,7 @@ author_profile: true
 <i>`图书情报工作`</i> (CSSCI) <br> 
 
 ## 2024
-- **Cultural distance, gender and praise in peer review**  [PDF](../assets/paper_en/Zhang_et_al_2024_Cultural_distance,_gender_and_praise_in_peer_review.pdf)[HTML](https://www.tandfonline.com/doi/full/10.1080/08989621.2024.2409310) <br>
+- **Cultural distance, gender and praise in peer review**  [PDF](../assets/paper_en/Zhang_et_al_2024_Cultural_distance,_gender_and_praise_in_peer_review.pdf) [HTML](https://www.tandfonline.com/doi/full/10.1080/08989621.2024.2409310) <br>
 **Guangyao Zhang**, Lili Wang, and Xianwen Wang* <br>
 <i>`Accountability in Research: Ethics, Integrity and Policy`</i> (SSCI)<br> 
 - **What are the digital skills sought by scientific employers in potential candidates?** [HTML]( https://www.tandfonline.com/doi/full/10.1080/1360080X.2024.2374392) <br>
