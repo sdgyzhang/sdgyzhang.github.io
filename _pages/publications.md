@@ -102,7 +102,7 @@ Yu Geng, Renmeng Cao, Xiaopu Han, Wencan Tian, **Guangyao Zhang**, Wang Xianwen*
 <i>`情报杂志`</i> (CSSCI) <br>
 
 ## 2019
-- **Understanding the peer review endeavor**  [HTML](https://doi.org/10.1002/pra2.26) <br>
+- **Understanding the peer review endeavor**  [PDF](../assets/paper_en/Xu_et_al_2019_Understanding_the_peer_review_endeavor) [HTML](https://doi.org/10.1002/pra2.26) <br>
 Shenmeng Xu, **Guangyao Zhang**, Yao Sun, Xianwen Wang*<br>
 <i>`Proceedings of the Association for Information Science and Technology`</i> <br>
 - **复印报刊资料科技哲学卷文献计量分析**  [HTML]( https://www.researchgate.net/publication/357334052) <br>
