@@ -14,13 +14,13 @@ author_profile: true
 - **Cultural distance, gender and praise in peer review**  [PDF](../assets/paper_en/Zhang_et_al_2024_Cultural_distance,_gender_and_praise_in_peer_review.pdf) [HTML](https://www.tandfonline.com/doi/full/10.1080/08989621.2024.2409310) <br>
 **Guangyao Zhang**, Lili Wang, and Xianwen Wang* <br>
 <i>`Accountability in Research: Ethics, Integrity and Policy`</i> (SSCI)<br> 
-- **What are the digital skills sought by scientific employers in potential candidates?** [HTML]( https://www.tandfonline.com/doi/full/10.1080/1360080X.2024.2374392) <br>
+- **What are the digital skills sought by scientific employers in potential candidates?** [PDF](../assets/paper_en/Zhang_et_al_2024_What_are_the_digital_skills_sought_by_scientific_employers_in_potential.pdf) [HTML]( https://www.tandfonline.com/doi/full/10.1080/1360080X.2024.2374392) <br>
 **Guangyao Zhang**, Lili Wang, Furong Shang, and Xianwen Wang* <br>
 <i>`Journal of Higher Education Policy and Management`</i> (SSCI) <br>
-- **Are reviewer scores consistent with citations?**  [HTML]( https://doi.org/10.1007/s11192-024-05103-2) <br>
+- **Are reviewer scores consistent with citations?**  [PDF](../assets/paper_en/Xie_et_al_2024_Are_reviewer_scores_consistent_with_citations.pdf) [HTML]( https://doi.org/10.1007/s11192-024-05103-2) <br>
 Weixi Xie, Pengfei Jia, **Guangyao Zhang**, Xianwen Wang*<br>
 <i>` Scientometrics`</i> (SSCI) <br>
-- **Does Granger causality exist between article usage and publication counts? A topic-level time-series evidence from IEEE Xplore**  [HTML]( https://doi.org/10.1007/s11192-024-05038-8) <br>
+- **Does Granger causality exist between article usage and publication counts? A topic-level time-series evidence from IEEE Xplore**  [PDF](../assets/paper_en/Tian_et_al_2024_Does_Granger_causality_exist_between_article_usage.pdf) [HTML]( https://doi.org/10.1007/s11192-024-05038-8) <br>
 Wencan Tian, Yongzhen Wang, Zhigang Hu, Ruonan Cai, **Guangyao Zhang**, Wang Xianwen* <br>
 <i>` Scientometrics`</i> (SSCI) <br>
 - **我国学术期刊存在编委效应吗——基于管理学期刊的实证研究**  [HTML]( https://www.cjstp.cn/CN/10.11946/cjstp.202403110213) <br>
@@ -28,13 +28,13 @@ Wencan Tian, Yongzhen Wang, Zhigang Hu, Ruonan Cai, **Guangyao Zhang**, Wang Xia
 <i>`中国科技期刊研究`</i> (CSSCI) <br>
 
 ## 2023
-- **Is peer review duration shorter for attractive manuscripts?**  [HTML]( https://journals.sagepub.com/doi/abs/10.1177/01655515231174382) <br>
+- **Is peer review duration shorter for attractive manuscripts?**  [PDF](../assets/paper_en/Zhang_et_al_2023_Is_peer_review_duration_shorter_for_attractive_man.pdf) [HTML]( https://journals.sagepub.com/doi/abs/10.1177/01655515231174382) <br>
 **Guangyao Zhang**, Furong Shang, Lili Wang, Weixi Xie, Pengfei Jia, Chunlin Jiang, Xianwen Wang* <br>
 <i>` Journal of Information Science`</i> (SSCI) <br>
 - **同行评议速度与论文影响力的关系研究 ——以二次文献选文速度为视角** [HTML]( http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.04.140) <br>
 **张光耀**, 谢维熙, 姜春林, 王贤文 <br>
 <i>`信息资源管理学报`</i> (CSSCI) <br>
-- **Do reviewers get their deserved acknowledgments from the authors of manuscripts?**  [HTML]( https://doi.org/10.1007/s11192-023-04790-7) <br>
+- **Do reviewers get their deserved acknowledgments from the authors of manuscripts?**  [PDF](../assets/paper_en/Jia_et_al_2023_Do_reviewers_get_their_deserved_acknowledgments_fr.pdf) [HTML]( https://doi.org/10.1007/s11192-023-04790-7) <br>
 Pengfei Jia, Weixi Xie, **Guangyao Zhang**, Xianwen Wang* <br>
 <i>`Scientometrics`</i> (SSCI) <br>
 - **知识流动视角下企业战略性知识披露效应研究——以华大基因为例**  [HTML](https://www.researchgate.net/publication/366325827) <br>
@@ -42,10 +42,10 @@ Pengfei Jia, Weixi Xie, **Guangyao Zhang**, Xianwen Wang* <br>
 <i>`情报杂志`</i> (CSSCI) <br>
 
 ## 2022
-- **Understanding the peer review endeavor in scientific publishing**  [HTML](https://www.sciencedirect.com/science/article/pii/S1751157722000165) <br>
+- **Understanding the peer review endeavor in scientific publishing**  [PDF](../assets/paper_en/Zhang_et_al_2022_Understanding_the_peer_review_endeavor_in_scientific_publishing.pdf) [HTML](https://www.sciencedirect.com/science/article/pii/S1751157722000165) <br>
 **Guangyao Zhang**, Shenmeng Xu, Yao Sun, Chunlin Jiang, Xianwen Wang* <br>
 <i>` Journal of Informetrics`</i> (SSCI) <br>
-- **“This article is interesting, however”: Exploring the language use in peer review comment of articles published in the BMJ**  [HTML]( https://www.emerald.com/insight/content/doi/10.1108/ajim-06-2021-0172/full/html) <br>
+- **“This article is interesting, however”: Exploring the language use in peer review comment of articles published in the BMJ**  [PDF](../assets/paper_en/Zhang_et_al_2022_“This_article_is_interesting,_however”_Exploring_.pdf) [HTML]( https://www.emerald.com/insight/content/doi/10.1108/ajim-06-2021-0172/full/html) <br>
 **Guangyao Zhang**, Licheng Wang, Weixi Xie, Furong Shang, Xinlu Xia, Chunlin Jiang, Xianwen Wang* <br>
 <i>` Aslib Journal of Information Management`</i> (SSCI) <br>
 - **科学计量视角下的论文同行评议研究综述**  [HTML]( https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2022.14.014) <br>
@@ -60,10 +60,10 @@ Pengfei Jia, Weixi Xie, **Guangyao Zhang**, Xianwen Wang* <br>
 - **非共识研究的影响力更高还是更低呢？——基于中文开放同行评议审稿意见的分析**  [HTML]( https://www.researchgate.net/publication/359576551) <br>
 **张光耀**, 谢维熙, 夏鑫璐, 耿屿, 姜春林, 王贤文*<br>
 <i>`情报理论与实践`</i> (CSSCI) <br>
-- **A bibliometric analysis of the research on preeclampsia in the first two decades of the twenty-first century**  [HTML]( https://doi.org/10.1097/HJH.0000000000003114) <br>
+- **A bibliometric analysis of the research on preeclampsia in the first two decades of the twenty-first century**  [PDF](../assets/paper_en/Zheng_et_al_2022_A_bibliometric_analysis_of_the_research_on_preecla.pdf) [HTML]( https://doi.org/10.1097/HJH.0000000000003114) <br>
 Dongying Zheng, Khan Muhanmmad, **Guangyao Zhang**, Kedong Song, Lixia Wang, Chong Qiao, Fuli Kang* <br>
 <i>`Journal of Hypertension`</i> (SCI) <br>
-- **Scientists are working overtime: When do scientists download scientific papers?**  [HTML](https://doi.org/10.1007/s11192-022-04524-1) <br>
+- **Scientists are working overtime: When do scientists download scientific papers?**  [PDF](../assets/paper_en/Geng_et_al_2021_Scientists_are_Working_Overtime_and_at_the_Weekend.pdf) [HTML](https://doi.org/10.1007/s11192-022-04524-1) <br>
 Yu Geng, Renmeng Cao, Xiaopu Han, Wencan Tian, **Guangyao Zhang**, Wang Xianwen*<br>
 <i>`Scientometrics`</i> (SSCI) <br>
 - **开放获取背景和疫情形势下预印本发表模式的扩散研究——以bioRxiv为例**  [HTML]( http://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.03.050) <br>
@@ -88,7 +88,7 @@ Yu Geng, Renmeng Cao, Xiaopu Han, Wencan Tian, **Guangyao Zhang**, Wang Xianwen*
 <i>`中国科技期刊研究`</i> (CSSCI) <br>
 
 ## 2020
-- **The open access usage advantage: A temporal and spatial analysis**  [HTML](https://link.springer.com/article/10.1007/s11192-020-03836-4) <br>
+- **The open access usage advantage: A temporal and spatial analysis** [PDF](../assets/paper_en/Zhang_et_al_2021_The_open_access_usage_advantage_a_temporal_and_sp.pdf) [HTML](https://link.springer.com/article/10.1007/s11192-020-03836-4) <br>
 **Guangyao Zhang**, Yuqi Wang, Weixi Xie, Han Du, Chunlin Jiang, Xianwen Wang* <br>
 <i>` Scientometrics`</i> (SSCI) <br>
 - **对抗疫情的科研成果发表与传播**  [HTML](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2023.02.105) <br>
