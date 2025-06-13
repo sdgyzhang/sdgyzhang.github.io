@@ -83,14 +83,14 @@ Yu Geng, Renmeng Cao, Xiaopu Han, Wencan Tian, **Guangyao Zhang**, Wang Xianwen*
 <i>`山东科技大学学报（社会科学版）`</i> <br>
 
 ## 2021
+- **The open access usage advantage: A temporal and spatial analysis** [PDF](../assets/paper_en/Zhang_et_al_2021_The_open_access_usage_advantage_a_temporal_and_sp.pdf) [HTML](https://link.springer.com/article/10.1007/s11192-020-03836-4) <br>
+**Guangyao Zhang**, Yuqi Wang, Weixi Xie, Han Du, Chunlin Jiang, Xianwen Wang* <br>
+<i>` Scientometrics`</i> (SSCI) <br>
 - **智库期刊发展现状及其提升路径**  [HTML]( https://www.cjstp.cn/CN/10.11946/cjstp.202107260585) <br>
 姜春林*, 王丽呈, **张光耀**, 宫嘉琪<br>
 <i>`中国科技期刊研究`</i> (CSSCI) <br>
 
 ## 2020
-- **The open access usage advantage: A temporal and spatial analysis** [PDF](../assets/paper_en/Zhang_et_al_2021_The_open_access_usage_advantage_a_temporal_and_sp.pdf) [HTML](https://link.springer.com/article/10.1007/s11192-020-03836-4) <br>
-**Guangyao Zhang**, Yuqi Wang, Weixi Xie, Han Du, Chunlin Jiang, Xianwen Wang* <br>
-<i>` Scientometrics`</i> (SSCI) <br>
 - **对抗疫情的科研成果发表与传播**  [HTML](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2023.02.105) <br>
 王贤文（导师）*, **张光耀**, 刘兰剑 <br>
 <i>`图书情报知识`</i> (CSSCI)  <br>
@@ -102,7 +102,7 @@ Yu Geng, Renmeng Cao, Xiaopu Han, Wencan Tian, **Guangyao Zhang**, Wang Xianwen*
 <i>`情报杂志`</i> (CSSCI) <br>
 
 ## 2019
-- **Understanding the peer review endeavor**  [PDF](../assets/paper_en/Xu_et_al_2019_Understanding_the_peer_review_endeavor) [HTML](https://doi.org/10.1002/pra2.26) <br>
+- **Understanding the peer review endeavor**  [PDF](../assets/paper_en/Xu_et_al_2019_Understanding_the_peer_review_endeavor.pdf) [HTML](https://doi.org/10.1002/pra2.26) <br>
 Shenmeng Xu, **Guangyao Zhang**, Yao Sun, Xianwen Wang*<br>
 <i>`Proceedings of the Association for Information Science and Technology`</i> <br>
 - **复印报刊资料科技哲学卷文献计量分析**  [HTML]( https://www.researchgate.net/publication/357334052) <br>
