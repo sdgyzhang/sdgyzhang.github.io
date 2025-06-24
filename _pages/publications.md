@@ -6,6 +6,9 @@ author_profile: true
 ---
 ---
 ## 2025
+- **Author Academic Influence and Manuscript Acceptance: Evidence from Peer Review in Cell Press Journals**  [PDF](../assets/.pdf) [HTML](http://dx.doi.org/10.1080/08989621.2025.2521083) <br>
+**Guangyao Zhang**, Lili Wang, Yixian Yin, and Xianwen Wang* <br>
+<i>`Accountability in Research: Ethics, Integrity and Policy`</i> (SSCI)<br> 
 - **人文社科研究报告类成果：研究进展与评价综述**  [PDF](../assets/paper_cn/姜春林_et_al_2025_人文社科研究报告类成果：研究进展与评价综述.pdf) [HTML](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2025.05.013) <br>
 姜春林*, 孙瑞敏, **张光耀** <br>
 <i>`图书情报工作`</i> (CSSCI) <br> 
