@@ -8,10 +8,13 @@ author_profile: true
 ## 2025
 - **Author Academic Influence and Manuscript Acceptance: Evidence from Peer Review in Cell Press Journals**  [PDF](../assets/paper_en/Zheng_et_al_2025_Author_academic_influence_and_manuscript_acceptance__Evidence_from_peer_review_in_cell_press_journals.pdf) [HTML](http://dx.doi.org/10.1080/08989621.2025.2521083) <br>
 **Guangyao Zhang**, Lili Wang, Yixian Yin, and Xianwen Wang* <br>
-<i>`Accountability in Research: Ethics, Integrity and Policy`</i> (SSCI)<br> 
 - **人文社科研究报告类成果：研究进展与评价综述**  [PDF](../assets/paper_cn/姜春林_et_al_2025_人文社科研究报告类成果：研究进展与评价综述.pdf) [HTML](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2025.05.013) <br>
 姜春林*, 孙瑞敏, **张光耀** <br>
 <i>`图书情报工作`</i> (CSSCI) <br> 
+- **颠覆性科学的技术影响——以人工智能领域为例**  [PDF](../assets/paper_en/.pdf) [HTML](http://dx.doi.org/10.1080/08989621.2025.2521083) <br>
+王贤文*, 尹逸贤, 耿屿, 余芊芊, **张光耀** <br>
+<i>`数据分析与知识发现`</i> (CSSCI)<br> 
+
 
 ## 2024
 - **Cultural distance, gender and praise in peer review**  [PDF](../assets/paper_en/Zhang_et_al_2024_Cultural_distance,_gender_and_praise_in_peer_review.pdf) [HTML](https://www.tandfonline.com/doi/full/10.1080/08989621.2024.2409310) <br>
