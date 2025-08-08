@@ -127,6 +127,6 @@ Shenmeng Xu, **Guangyao Zhang**, Yao Sun, Xianwen Wang*<br>
 姜春林（导师）, 郭琪琴, **张光耀** <br>
 <i>`科学管理研究`</i> (CSSCI) <br>
 - **基于专利信息的OLED技术创新网络演化研究**  [PDF](../assets/paper_cn/姜春林_et_al_2019_基于专利信息的OLED技术创新网络演化研究.pdf) [HTML]( https://www.researchgate.net/publication/357333957) <br>
-姜春林*, **张光耀**, 贾龙川<br>
+姜春林*, 贾龙川, **张光耀**<br>
 <i>`情报杂志`</i> (CSSCI) <br>
 
