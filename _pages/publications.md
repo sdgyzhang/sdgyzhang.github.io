@@ -11,7 +11,7 @@ author_profile: true
 - **人文社科研究报告类成果：研究进展与评价综述**  [PDF](../assets/paper_cn/姜春林_et_al_2025_人文社科研究报告类成果：研究进展与评价综述.pdf) [HTML](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2025.05.013) <br>
 姜春林*, 孙瑞敏, **张光耀** <br>
 <i>`图书情报工作`</i> (CSSCI) <br> 
-- **颠覆性科学的技术影响——以人工智能领域为例**  [PDF](../assets/paper_en/.pdf) [HTML]() <br>
+- **颠覆性科学的技术影响——以人工智能领域为例**  [PDF](../assets/paper_cn/王贤文_et_al_2025_科学论文的颠覆性与其技术影响的关系研究——以人工智能领域为例.pdf) [HTML](https://kns.cnki.net/kcms2/article/abstract?v=0xftKHkdwWQlDw19CHbWTS2pYlKF-IQuJjpdxb1x5lRBeqKV9_XItctII_jNTg__y91_lqBabzO2VZ6ejKQM1sZEb3ryZyYRlXIxN24HmigLwERQRJDSfezJf_uDoFNf00Kc2jJrsWMxK81hGC1uvdZMX6IhJhBOVqb3XIFrHgtGT88BvC6ZbQ==&uniplatform=NZKPT&language=CHS) <br>
 王贤文*, 尹逸贤, 耿屿, 余芊芊, **张光耀** <br>
 <i>`数据分析与知识发现`</i> (CSSCI)<br> 
 
