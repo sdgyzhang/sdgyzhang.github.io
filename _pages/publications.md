@@ -5,9 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 ---
+## 2026
+- **Open access and the flow of knowledge into technology: Evidence from journal transitions to full and immediate OA**  [PDF](../assets/paper_en/Jia_et_al_2026_Open%20access%20and%20the%20flow%20of%20knowledge%20into%20technology%20Evidence%20from%20journal%20transitions%20to%20full%20and.pdf) [HTML](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.70045) <br>
+Pengfei Jia, Weixi Xie, **Guangyao Zhang**, and Xianwen Wang* <br>
+<i>`Journal of the Association for Information Science and Technology`</i> (SSCI)<br> 
+
+
 ## 2025
 - **Author Academic Influence and Manuscript Acceptance: Evidence from Peer Review in Cell Press Journals**  [PDF](../assets/paper_en/Zheng_et_al_2025_Author_academic_influence_and_manuscript_acceptance__Evidence_from_peer_review_in_cell_press_journals.pdf) [HTML](http://dx.doi.org/10.1080/08989621.2025.2521083) <br>
 **Guangyao Zhang**, Lili Wang, Yixian Yin, and Xianwen Wang* <br>
+<i>`Accountability in Research: Ethics, Integrity and Policy`</i> (SSCI)<br> 
 - **人文社科研究报告类成果：研究进展与评价综述**  [PDF](../assets/paper_cn/姜春林_et_al_2025_人文社科研究报告类成果：研究进展与评价综述.pdf) [HTML](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2025.05.013) <br>
 姜春林*, 孙瑞敏, **张光耀** <br>
 <i>`图书情报工作`</i> (CSSCI) <br> 
