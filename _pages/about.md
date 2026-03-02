@@ -52,4 +52,5 @@ Accountability in Research: Ethics, Integrity and Policy <br>
 Information Technology & People <br>
 Scientometrics <br>
 Journal of Information Science <br>
-BMC Medical Education
+BMC Medical Education <br>
+Quality & Quantity
