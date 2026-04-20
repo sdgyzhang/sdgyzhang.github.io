@@ -9,7 +9,7 @@ redirect_from:
 
 Hello!
 
-I am Zhang, Guangyao (张光耀). I  hold two Ph.D. degrees, one from UNU-MERIT (supervisors: Prof. [Bart Verspagen](https://unu.edu/merit/about/expert/prof-dr-bart-verspagen), Prof. [Lili Wang](https://unu.edu/merit/about/expert/dr-lili-wang), and Prof. [Xianwen Wang](https://faculty.dlut.edu.cn/xwang/zh_CN/index.htm)) and another from Dalian University of Technology (supervisor: Prof. [Xianwen Wang](https://faculty.dlut.edu.cn/xwang/zh_CN/index.htm)).
+I am Zhang, Guangyao (张光耀). I am an Assistant Professor in the School of Information Management at Nanjing University. I  hold two Ph.D. degrees, one from UNU-MERIT (supervisors: Prof. [Bart Verspagen](https://unu.edu/merit/about/expert/prof-dr-bart-verspagen), Prof. [Lili Wang](https://unu.edu/merit/about/expert/dr-lili-wang), and Prof. [Xianwen Wang](https://faculty.dlut.edu.cn/xwang/zh_CN/index.htm)) and another from Dalian University of Technology (supervisor: Prof. [Xianwen Wang](https://faculty.dlut.edu.cn/xwang/zh_CN/index.htm)).
 
 My current work focuses on `science of science` and `sociology of science`, with a particular emphasis on `peer review`.
 
@@ -53,10 +53,10 @@ Fellowships, Awards And Honors
 
 Referee Services to Journals
 ======
-Accountability in Research: Ethics, Integrity and Policy <br>
-Information Technology & People <br>
-Research Integrity and Peer Review <br>
-Scientometrics <br>
-Journal of Information Science <br>
-BMC Medical Education <br>
-Quality & Quantity
+_Accountability in Research: Ethics, Integrity and Policy_ <br>
+_Information Technology & People_ <br>
+_Research Integrity and Peer Review_ <br>
+_Scientometrics_ <br>
+_Journal of Information Science_ <br>
+_BMC Medical Education_ <br>
+_Quality & Quantity_
