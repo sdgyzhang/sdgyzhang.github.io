@@ -19,7 +19,6 @@ Thank you for your interest in my projects. To reach out, please send me an emai
 
 how to pronounce [张](https://youtu.be/OZ3HgI2xIwo?t=7) [光](https://www.youtube.com/watch?v=w3wJoDwNPFo) [耀](https://youtu.be/BSHr7LoZfVs?t=28)
 
-Affiliation: School of Public Administration and Policy, Dalian University of Technology.
 
 Experience
 ======
