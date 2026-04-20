@@ -21,6 +21,11 @@ how to pronounce [张](https://youtu.be/OZ3HgI2xIwo?t=7) [光](https://www.youtu
 
 Affiliation: School of Public Administration and Policy, Dalian University of Technology.
 
+Experience
+======
+* **Assistant Professor** in School of Information Management, Nanjing University, 2026 - Present
+
+
 Education
 ======
 * Ph.D in Science of Science and Management of Science and Technology, Dalian University of Technology, 2019 - 2025
