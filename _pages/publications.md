@@ -86,7 +86,7 @@ Yu Geng, Renmeng Cao, Xiaopu Han, Wencan Tian, **Guangyao Zhang**, Wang Xianwen*
 谢维熙, **张光耀**, 王贤文*<br>
 <i>`中国科技期刊研究`</i> (CSSCI) <br>
 - **人文社科学术著作评价指标体系构建及实证研究**  [PDF](../assets/paper_cn/姜春林_et_al_2022_人文社科学术著作评价指标体系构建及实证研究.pdf) [HTML]( https://www.researchgate.net/publication/357670079) <br>
-姜春林*, **张光耀**, 郭琪琴<br>
+姜春林*, 郭琪琴, **张光耀**<br>
 <i>`情报杂志`</i> (CSSCI) <br>
 - **精英同行评价与大众同行评价的结果是否一致?——以人大《复印报刊资料》转载论文为例**  [PDF](../assets/paper_cn/耿屿_et_al_2022_精英同行评价与大众同行评价的结果是否一致——以人大《复印报刊资料》转载论文为例.pdf) [HTML]( https://www.researchgate.net/publication/364088383) <br>
 耿屿, 郭毓晗, 方燕, **张光耀**, 田文灿, 王贤文* <br>
