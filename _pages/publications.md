@@ -17,7 +17,7 @@ Fan Zhang, Lili Wang, Xianwen Wang, **Guangyao Zhang*** <br>
 - **Open access and the flow of knowledge into technology: Evidence from journal transitions to full and immediate OA**  [PDF](../assets/paper_en/Jia_et_al_2026_Open%20access%20and%20the%20flow%20of%20knowledge%20into%20technology%20Evidence%20from%20journal%20transitions%20to%20full%20and.pdf) [HTML](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.70045) <br>
 Pengfei Jia, Weixi Xie, **Guangyao Zhang**, and Xianwen Wang* <br>
 <i>`Journal of the Association for Information Science and Technology`</i> (SSCI)<br> 
-- **颠覆性科学的技术影响——以人工智能领域为例**  [PDF](../assets/paper_cn/王贤文_et_al_2026_科学论文的颠覆性与其技术影响的关系研究——以人工智能领域为例.pdf) [HTML](https://kns.cnki.net/kcms2/article/abstract?v=0xftKHkdwWQlDw19CHbWTS2pYlKF-IQuJjpdxb1x5lRBeqKV9_XItctII_jNTg__y91_lqBabzO2VZ6ejKQM1sZEb3ryZyYRlXIxN24HmigLwERQRJDSfezJf_uDoFNf00Kc2jJrsWMxK81hGC1uvdZMX6IhJhBOVqb3XIFrHgtGT88BvC6ZbQ==&uniplatform=NZKPT&language=CHS) <br>
+- **科学论文的颠覆性与其技术影响的关系研究——以人工智能领域为例**  [PDF](../assets/paper_cn/王贤文_et_al_2026_科学论文的颠覆性与其技术影响的关系研究——以人工智能领域为例.pdf) [HTML](https://c.wanfangdata.com.cn/magazine/xdtsqbjs/?tabId=column&ztext=%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87&page=1&order=download_num&yearType=1) <br>
 王贤文*, 尹逸贤, 耿屿, 余芊芊, **张光耀** <br>
 <i>`数据分析与知识发现`</i> (CSSCI)<br> 
 
