@@ -28,6 +28,9 @@ Pengfei Jia, Weixi Xie, **Guangyao Zhang**, and Xianwen Wang* <br>
 - **What are the digital skills sought by scientific employers in potential candidates?** [PDF](../assets/paper_en/Zhang_et_al_2024_What_are_the_digital_skills_sought_by_scientific_employers_in_potential.pdf) [HTML]( https://www.tandfonline.com/doi/full/10.1080/1360080X.2024.2374392) <br>
 **Guangyao Zhang**, Lili Wang, Furong Shang, and Xianwen Wang* <br>
 <i>`Journal of Higher Education Policy and Management`</i> (SSCI) <br>
+- **Is peer review duration shorter for attractive manuscripts?**  [PDF](../assets/paper_en/Zhang_et_al_2023_Is_peer_review_duration_shorter_for_attractive_man.pdf) [HTML]( https://journals.sagepub.com/doi/abs/10.1177/01655515231174382) <br>
+**Guangyao Zhang**, Furong Shang, Lili Wang, Weixi Xie, Pengfei Jia, Chunlin Jiang, Xianwen Wang* <br>
+<i>` Journal of Information Science`</i> (SSCI) <br>
 - **人文社科研究报告类成果：研究进展与评价综述**  [PDF](../assets/paper_cn/姜春林_et_al_2025_人文社科研究报告类成果：研究进展与评价综述.pdf) [HTML](https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2025.05.013) <br>
 姜春林*, 孙瑞敏, **张光耀** <br>
 <i>`图书情报工作`</i> (CSSCI) <br> 
@@ -44,9 +47,6 @@ Wencan Tian, Yongzhen Wang, Zhigang Hu, Ruonan Cai, **Guangyao Zhang**, Wang Xia
 <i>`中国科技期刊研究`</i> (CSSCI) <br>
 
 ## 2023
-- **Is peer review duration shorter for attractive manuscripts?**  [PDF](../assets/paper_en/Zhang_et_al_2023_Is_peer_review_duration_shorter_for_attractive_man.pdf) [HTML]( https://journals.sagepub.com/doi/abs/10.1177/01655515231174382) <br>
-**Guangyao Zhang**, Furong Shang, Lili Wang, Weixi Xie, Pengfei Jia, Chunlin Jiang, Xianwen Wang* <br>
-<i>` Journal of Information Science`</i> (SSCI) <br>
 - **同行评议速度与论文影响力的关系研究 ——以二次文献选文速度为视角** [PDF](../assets/paper_cn/张光耀_et_al_2023_同行评议速度与论文影响力的关系研究——以二次文献选文速度为视角.pdf) [HTML]( http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/10.13365/j.jirm.2023.04.140) <br>
 **张光耀**, 谢维熙, 姜春林, 王贤文 <br>
 <i>`信息资源管理学报`</i> (CSSCI) <br>
