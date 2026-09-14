@@ -8,7 +8,7 @@ author_profile: true
 ## 2026
 - **The Stratified Geography of Authorship: A U-Shaped Relationship Between Journal Influence Tier and Author-Country Concentration in Sociolog**  [PDF]() [HTML](http://dx.doi.org/10.1002/leap.2104) <br>
 Fan Zhang, Lili Wang, Xianwen Wang, **Guangyao Zhang*** <br>
-<i>`Accountability in Research: Ethics, Integrity and Policy`</i> (SSCI)<br>
+<i>`Learned Publishing`</i> (SSCI)<br>
 
 
 - **Author Academic Influence and Manuscript Acceptance: Evidence from Peer Review in Cell Press Journals**  [PDF](../assets/paper_en/Zheng_et_al_2025_Author_academic_influence_and_manuscript_acceptance__Evidence_from_peer_review_in_cell_press_journals.pdf) [HTML](http://dx.doi.org/10.1080/08989621.2025.2521083) <br>
