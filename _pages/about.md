@@ -58,4 +58,5 @@ _Research Integrity and Peer Review_ <br>
 _Scientometrics_ <br>
 _Journal of Information Science_ <br>
 _BMC Medical Education_ <br>
+_Chinese Journal of Communication_ <br>
 _Quality & Quantity_
