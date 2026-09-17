@@ -8,6 +8,9 @@ author_profile: true
 <i>\* Corresponding author. Bold indicates my name.</i>
 
 ## 2026
+- **Digitalisation, use of scientific publications, and research output: Cross-country evidence**  [PDF]() [HTML]() <br>
+**Guangyao Zhang**, Lili Wang, Yu Geng, Xianwen Wang*<br>
+<i>`Science and Engineering Ethics`</i> (SSCI)<br>
 - **The Stratified Geography of Authorship: A U-Shaped Relationship Between Journal Influence Tier and Author-Country Concentration in Sociolog**  [PDF]() [HTML](http://dx.doi.org/10.1002/leap.2104) <br>
 Fan Zhang, Lili Wang, Xianwen Wang, **Guangyao Zhang*** <br>
 <i>`Learned Publishing`</i> (SSCI)<br>
