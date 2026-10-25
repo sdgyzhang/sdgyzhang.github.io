@@ -7,13 +7,18 @@ author_profile: true
 
 <i>\* Corresponding author. Bold indicates my name.</i>
 
-## 2026
+## Selected Paper
 - **Beyond the Clock: Submission Timing and Research Impact**  [PDF]() [HTML]() <br>
 **Guangyao Zhang**, Lili Wang, Wencan Tian, Xianwen Wang*<br>
-<i>`Research Policy`</i> (FT)<br>
+<i>`Research Policy`</i> (FT50)<br>
+
+## 2026
 - **Digitalisation, use of scientific publications, and research output: Cross-country evidence**  [PDF](../assets/paper_en/Zhang_et_al_2026_Digitalisation_Use_of_Scientific_Publications_and_Research_Output_Cross-Country_Evidence.pdf) [HTML](http://dx.doi.org/10.1007/s11948-026-00633-9) <br>
 **Guangyao Zhang**, Lili Wang, Yu Geng, Xianwen Wang*<br>
 <i>`Science and Engineering Ethics`</i> (SSCI, JCR Q1)<br>
+- **The Changing Use of Books in Sociology Journals**  [PDF]() [HTML]() <br>
+**Guangyao Zhang**, Xin Liu, Yuqi Wang, Xianwen Wang<br>
+<i>`Journal of Documentation`</i> (SSCI, JCR Q2)<br>
 - **The Stratified Geography of Authorship: A U-Shaped Relationship Between Journal Influence Tier and Author-Country Concentration in Sociolog**  [PDF](../assets/paper_en/Zhang_et_al_2026_The_Stratified_Geography_of_Authorship_A_U-Shaped_Relationship_Between_Journal_Influence_Tier_and_A.pdf) [HTML](http://dx.doi.org/10.1002/leap.2104) <br>
 Fan Zhang, Lili Wang, Xianwen Wang, **Guangyao Zhang*** <br>
 <i>`Learned Publishing`</i> (SSCI, JCR Q1)<br>
