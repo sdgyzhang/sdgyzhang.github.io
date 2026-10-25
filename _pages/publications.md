@@ -22,6 +22,9 @@ author_profile: true
 - **The Stratified Geography of Authorship: A U-Shaped Relationship Between Journal Influence Tier and Author-Country Concentration in Sociolog**  [PDF](../assets/paper_en/Zhang_et_al_2026_The_Stratified_Geography_of_Authorship_A_U-Shaped_Relationship_Between_Journal_Influence_Tier_and_A.pdf) [HTML](http://dx.doi.org/10.1002/leap.2104) <br>
 Fan Zhang, Lili Wang, Xianwen Wang, **Guangyao Zhang*** <br>
 <i>`Learned Publishing`</i> (SSCI, JCR Q1)<br>
+- **What Drives Triadic Patent Success? An fsQCA and NCA Analysis Based on the Who-What-Where Framework**  [PDF]() [HTML]() <br>
+Fan Zhang, **Guangyao Zhang*** <br>
+<i>`Scientometrics`</i> (SSCI, JCR Q1)<br>
 - **Author Academic Influence and Manuscript Acceptance: Evidence from Peer Review in Cell Press Journals**  [PDF](../assets/paper_en/Zheng_et_al_2025_Author_academic_influence_and_manuscript_acceptance__Evidence_from_peer_review_in_cell_press_journals.pdf) [HTML](http://dx.doi.org/10.1080/08989621.2025.2521083) <br>
 **Guangyao Zhang**, Lili Wang, Yixian Yin, and Xianwen Wang* <br>
 <i>`Accountability in Research: Ethics, Integrity and Policy`</i> (SSCI, JCR Q1)<br>
